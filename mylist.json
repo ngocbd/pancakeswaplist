@@ -1,0 +1,25 @@
+{
+  "name": "NgocBD Extended",
+  "timestamp": "2021-08-20T10:38:41.215Z",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 18
+  },
+  "logoURI": "https://assets.trustwalletapp.com/blockchains/smartchain/assets/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82/logo.png",
+  "keywords": [
+    "pancakeswap",
+    "extended"
+  ],
+  "tokens": [
+    {
+      "name": "ALLAHU",
+      "symbol": "ALLAHU",
+      "address": "0xe3c8cb89fe0b3f3022f498a2a6c4eb4f955ecf57",
+      "chainId": 56,
+      "decimals": 6,
+      "logoURI": "https://bscscan.com/images/main/empty-token.png"
+    }
+    
+  ]
+}
